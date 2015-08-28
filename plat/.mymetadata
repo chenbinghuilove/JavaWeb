@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="plat"
+  id="myeclipse.1440049878687"
+  context-root="/plat"
+  j2ee-spec="5.0"
+  archive="plat.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
