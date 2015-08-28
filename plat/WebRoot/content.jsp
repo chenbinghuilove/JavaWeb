@@ -39,6 +39,7 @@
     <h4 align="center">作者：${newsContent.author}&nbsp;&nbsp;&nbsp;修改日期：${newsContent.editDate}</h4>
     <p style="background-color: #eee">${newsContent.lead}</p>
     <p>${newsContent.content}</p>
+    <!-- 注释，注释，注释，注释 -->
    </div>
   </div>
   <hr>
